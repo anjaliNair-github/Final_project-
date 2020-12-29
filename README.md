@@ -11,11 +11,13 @@ This architecture could achieve higher than 99% accuracy for the classification 
 the T72 tank, even in the case of diverse positions located by targets. The accuracy of our umbrella is superior to the current networks applied in the classification of MSTAR.
 The result shows that the umbrella architecture possesses a very robust generalization capability and will be potential for SAR-ART.
 
-##Group Members: 
+##
+Group Members: 
 1.Anjali Nair
 2.Shibana Basheer 
 3.Najeeb VK
 4.San Jose
 
-##Mentor:
+##
+Mentor:
 Mr.Aneesh Chandran
